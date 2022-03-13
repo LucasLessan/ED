@@ -1,0 +1,24 @@
+23 28
+B . O O O O O O . . . . . . . . . . . . . . . . . O O .
+H O O O O O O R . . . . . . . . . . . . H . . H R O O R
+O O O O O O . . H . . . . . . . . . . . . . . . O O O O
+O O O O R . . . . . . . . H . . . . . . . . H . O O O O
+H O O R R . . . . . . . . . . . . . H . . . . . O O H O
+O O H . . . . . . . . . . H . . . R R H . . H . R O O O
+H H . . . . . . . . . . . . . . . O O . . . . . . O H O
+R R . . . . . . . . . . . . . . . O O R . H . H . O O O
+. . H . . H . . . R . . . H . . . O O R . . . . . O O O
+. . . . . . . R R R R . . . . . . . O H . . . . R O O O
+. . . . . . O O O H O . . . . . . . O R R . . R O O O O
+. . . H . H O O O O R . . . . . R R H O R O H R O O O O
+. . . . . R O O O O H . . . . R R O O O O O O O O O O O
+H . . . H O O O O R . . H . . R O O O O O O O H O O O O
+. . . H . O O O R . . . . . . O H O O O O O O O O O R O
+. . . . . O O O . . . . . . . O R R R O O O O O R . R O
+R . . . R O O H . . . . . . . . R R R R R R O H . . . R
+R . R O O O O O . . . . . . . . . . . . R R H . . . . .
+O R R O O H O O . . . . . . H . . . . H . . . . . . . .
+O O O O H O H O . H H . . . . . . . . . H . . . . . . .
+O O O O O H O O . . . . . . . . . . . . . H . . R . . .
+H O O O H O O O . . . . . . R R . . . . . . . . O R R H
+O O O O O O O O H . . . . . O R . . . H . . . . O O O R
