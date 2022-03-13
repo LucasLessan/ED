@@ -2,7 +2,7 @@
 
 **Português:**
 
-Programas que escrevi para a disciplina de ED (**E**strutura de **D**ados), período 2020/2. Cada pasta representa um **T**rabalho **P**rático (TPx). Acredito que todos funcionem. Todos os arquivos estão em português (tem só um pouco de inglês). Tem um roteiro do trabalho, uma documentação com comentários pertinentes à disciplina e arquivos de teste para cada um dos TPs. A estrutura das pastas está em português.
+Programas que escrevi para a disciplina de ED (**E**struturas de **D**ados), período 2020/2. Cada pasta representa um **T**rabalho **P**rático (TPx). Acredito que todos funcionem. Todos os arquivos estão em português (tem só um pouco de inglês). Tem um roteiro do trabalho, uma documentação com comentários pertinentes à disciplina e arquivos de teste para cada um dos TPs. A estrutura das pastas está em português.
 \
 \
 \
